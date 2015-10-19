@@ -1,8 +1,8 @@
 Package.describe({
   summary: 'Provides the 3 of 9 Barcode font.',
-  version: '2.0.2',
+  version: '3.0.0',
   name: 'clinical:barcode',
-  git: 'http://github.com/awatson1978/fonts-barcode.git'
+  git: 'https://github.com/clinical-meteor/clinical-barcode'
 });
 
 Package.on_use(function (api) {

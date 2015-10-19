@@ -1,4 +1,4 @@
-## fonts-barcode
+## clinical:barcode
 
 Admit it, we all love fonts. And how cool is it that barcodes are just fonts? Useful for any apps requiring inventory tracking or printing of labels.
 
@@ -8,7 +8,7 @@ Admit it, we all love fonts. And how cool is it that barcodes are just fonts? Us
 First, install the fonts-barcode package from the command line, like so:
 
 ````
-meteor add clinical:barcodes
+meteor add clinical:barcode
 ````
 
 ------------------------
@@ -24,7 +24,7 @@ Then, simply add the 'barcode' class to the appropriate HTML tags.
 ------------------------
 ### Reminder
 
-You MUST enclose your barcode with asterixes!!!
+You must enclose your barcode with asterixes!!!
 
 ````
 *123456789*
